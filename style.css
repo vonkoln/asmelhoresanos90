@@ -86,6 +86,7 @@ input[type="range"]::-ms-thumb {
 
 .avaliacao{
   display: flex;
+  justify-content: center;
  }
 .star-icon{
   list-style-type: none;
