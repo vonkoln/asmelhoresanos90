@@ -2,12 +2,12 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
 
 :root {
-  --primary: #089f8e;
+  --primary: #3b2e93;
 }
 
 body {
   height: 100vh;
-  background-color: #627c25;
+  background-color: #ed947d;
   display: flex;
   align-items: center;
   justify-content: center;
