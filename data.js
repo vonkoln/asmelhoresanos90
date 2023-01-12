@@ -8,7 +8,7 @@ export default [
   {
     title:"Schöneberg (Moonmen Over Marmion Remix)",
     artist: "Marmion",
-    cover: "hipo.png",
+    cover: "hipo2.png",
     file: "Marmion-Schöneberg(MoonmenOverMarmionRemix).mp3",
   },
   
