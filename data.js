@@ -1,12 +1,18 @@
 export default [
   {
-    title:"No Matter What I Do [It's All About You] (Rock Da Planet Mix)",
+    title:"Burn The Elastic - Abertura",
+    artist: "Violet",
+    cover: "burn.jpg",
+    file: "VioletBurnTheElastic.mp3",
+  },  
+  {
+    title:"No Matter What I Do It's All About You Rock Da Planet Mix",
     artist: "Alexia",
     cover: "hipo.jpg",
     file: "Alexia-NoMatterWhatIDo[It'sAllAboutYou](RockDaPlanetMix).mp3",
   },
   {
-    title:"Schöneberg (Moonmen Over Marmion Remix)",
+    title:"Schöneberg Moonmen Over Marmion Remix",
     artist: "Marmion",
     cover: "hipo2.jpg",
     file: "Marmion-Schöneberg(MoonmenOverMarmionRemix).mp3",
@@ -46,5 +52,35 @@ export default [
     artist: "Summer Junkies",
     cover: "planetbass.jpg",
     file: "BassPlanetBeats.mp3",
+  },
+  {
+    title:"Witch Doktor Dark Ages Mix",
+    artist: "Armand Van Helden ",
+    cover: "doktor.jpg",
+    file: "ArmandVanHeldenWitchDoktorDarkAgesMix.mp3",
+  },  
+  {
+    title:"Too Nice To Be Real",
+    artist: "T 99",
+    cover: "t99.jpg",
+    file: "T99-TooNiceToBeReal.mp3",
+  },  
+  {
+    title:"Godfather Freestyle Party Mix",
+    artist: "Black Power",
+    cover: "godf.jpg",
+    file: "BlackPoweGodfatherFreestylePartyMix.mp3",
+  },  
+  {
+    title:"Mothership Reconnection Daft Punk Remix",
+    artist: "Scott Grooves Feat. Parliament Funkadelic",
+    cover: "scoot.jpg",
+    file: "ScottGroovesMothershipDaftPunkRemix.mp3",
+  }, 
+  {
+    title:"Waves Of Life '97 Remix",
+    artist: "The Mover - DJ Alberto",
+    cover: "alberto.jpg",
+    file: "TheMoverWavesOfLifeDJAlbertoRemix.mp3",
   },  
 ];
