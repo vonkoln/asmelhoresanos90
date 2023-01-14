@@ -12,16 +12,16 @@ export default [
     file: "Marmion-Schöneberg(MoonmenOverMarmionRemix).mp3",
   },
   {
-    title:"Jack The Beat",
+    title:"Jack The Beat Original",
     artist: "Wicked Wipe",
     cover: "hipo3.jpg",
-    file: "WickedWipe-JackTheBeat.mp3",
+    file: "WickedWipeJackTheBeatOriginal.mp3",
   },
   {
-    title:"Breakdown (Dj Trajic Mix)",
+    title:"Breakdown Mix",
     artist: "Dj Self & Dj Trajic",
     cover: "djselfdjtrajic.jpg",
-    file: "Self&TrajicBreakdownMix.mp3.mp3",
+    file: "Self&TrajicBreakdownMix.mp3",
   },
   {
     title:"Jack The Beat Remix",
@@ -30,7 +30,7 @@ export default [
     file: "WickedWipe-JackTheBeatRemix.mp3",
   },
   {
-    title:"To The Three (Original Mix) (128 kbps)",
+    title:"To The Three Original Mix",
     artist: "SP 1200",
     cover: "phoenix.jpg",
     file: "SP1200-ToTheThree.mp3",
@@ -46,6 +46,5 @@ export default [
     artist: "Summer Junkies",
     cover: "planetbass.jpg",
     file: "BassPlanetBeats.mp3",
-  },
-  
+  },  
 ];
