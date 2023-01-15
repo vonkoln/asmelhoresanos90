@@ -122,7 +122,7 @@ export default [
   {
     title:"21 - The Buddha Monks Funky Fresh",
     artist: "Dj Stew Featuring ",
-    cover: "movin.jfif",
+    cover: "move.jpg",
     file: "DJStewfeaturingTheBuddhaMonks-FunkyFresh.mp3",
   },    
   {
