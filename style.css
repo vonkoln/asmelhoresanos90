@@ -39,7 +39,8 @@ h4 {
 
 .card-image {
   background: url("https://placehold.it/500") no-repeat center center / cover;
-  height: 200px;
+  height: 360px;
+  width: 375px;
 }
 
 audio {
