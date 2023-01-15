@@ -6,6 +6,36 @@ export default [
     file: "VioletBurnTheElastic.mp3",
   },  
   {
+    title:"Play It Again",
+    artist: "Out Of The Ordinary",
+    cover: "out.jpg",
+    file: "OutOfTheOrdinary-PlayItAgain.mp3",
+  },  
+  {
+    title:"GoodLife CJ's Living Good Club Mix)",
+    artist: "InnerCity",
+    cover: "ineed.jpg",
+    file: "InnerCity-GoodLife-(CJ'sLivingGoodClubMix).mp3",
+  },  
+  {
+    title:"TheFreaks",
+    artist: "DJ Deeon",
+    cover: "freaks.jpg",
+    file: "Deeon-TheFreaks.mp3",
+  },  
+  {
+    title:"Fever Express",
+    artist: "George Acosta",
+    cover: "fever.jfif",
+    file: "GeorgeAcosta-FeverExpress(100%VocalFever).mp3",
+  },  
+  {
+    title:"Destination Unknown",
+    artist: "Green Velvet",
+    cover: "velv.jpg",
+    file: "GreenVelvet-DestinationUnknown.mp3",
+  },  
+  {
     title:"No Matter What I Do It's All About You Rock Da Planet Mix",
     artist: "Alexia",
     cover: "hipo.jpg",
