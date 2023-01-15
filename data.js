@@ -12,13 +12,13 @@ export default [
     file: "OutOfTheOrdinary-PlayItAgain.mp3",
   },  
   {
-    title:"GoodLife CJ's Living Good Club Mix)",
-    artist: "InnerCity",
+    title:"Good Life CJ's Living Good Club Mix)",
+    artist: "Inner City",
     cover: "ineed.jpg",
     file: "InnerCity-GoodLife-(CJ'sLivingGoodClubMix).mp3",
   },  
   {
-    title:"TheFreaks",
+    title:"The Freaks",
     artist: "DJ Deeon",
     cover: "freaks.jpg",
     file: "Deeon-TheFreaks.mp3",
