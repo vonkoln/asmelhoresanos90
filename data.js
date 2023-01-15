@@ -123,7 +123,7 @@ export default [
     title:"21 - The Buddha Monks Funky Fresh",
     artist: "Dj Stew Featuring ",
     cover: "move.jpg",
-    file: "DJStewfeaturingTheBuddhaMonks-FunkyFresh.mp3",
+    file: "DJStewTheBuddhaMonks.mp3",
   },    
   {
     title:"22 - The Friction Remix",
@@ -153,7 +153,7 @@ export default [
     title:"26 - Don't Go",
     artist: "Awesome 3",
     cover: "dont.jpg",
-    file: "Don'tGo(OriginalMix).mp3",
+    file: "DontGoAwsome.mp3",
   },    
   {
     title:"27 - Shake It",
@@ -171,7 +171,7 @@ export default [
     title:"29 - Meet Her At The Love Parade",
     artist: "Da Hool",
     cover: "hool.jfif",
-    file: "DaHool-meetherattheLoveparade-OfficialVideo(HQ).mp3",
+    file: "DaHool-MeetLove.mp3",
   },    
   {
     title:"30 - Summertime Summertime",
