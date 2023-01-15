@@ -123,7 +123,7 @@ export default [
     title:"21 - The Buddha Monks Funky Fresh",
     artist: "Dj Stew Featuring ",
     cover: "move.jpg",
-    file: "DJStewTheBuddhaMonks.mp3",
+    file: "DJStewBMonks-FF.mp3",
   },    
   {
     title:"22 - The Friction Remix",
