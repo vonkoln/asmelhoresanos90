@@ -280,6 +280,30 @@ export default [
     artist: "Shavonne",
     cover: "so.jpg",
     file: "SoTellMeTellMe.mp3",
+  },     
+  {
+    title:"48 - Play at Your Own Risk",
+    artist: "Planet Patrol",
+    cover: "playat.jpg",
+    file: "PlayatYourOwnRisk.mp3",
+  },     
+  {
+    title:"49 - Freak It",
+    artist: "Lathun Grady",
+    cover: "lathun.jpg",
+    file: "LathunGradyFreakIt.mp3",
+  },     
+  {
+    title:"50 - Jam On It",
+    artist: "Newcleus",
+    cover: "jam.jpg",
+    file: "JamOnIt.mp3",
+  },      
+  {
+    title:"51 - Just Like the Windt",
+    artist: "Tony Garcia",
+    cover: "just.jpg",
+    file: "JustLiketheWind",
   },  
 ];
 
