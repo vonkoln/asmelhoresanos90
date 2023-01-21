@@ -240,33 +240,47 @@ export default [
     file: "djicey-wedoitlikethis.mp3",
   }, 
   {
-    title:"41 - When I Hear Music",
+    title:"41 - Don't Stop The Rock",
+    artist: "FreeStyle",
+    cover: "free.jpg",
+    file: "FreeStyleDontStopTheRock.mp3",
+  },  
+  {
+    title:"42 - When I Hear Music",
     artist: "Debbie Deb",
     cover: "wheni.jpg",
     file: "WhenIHearMusic.mp3",
   }, 
   {
-    title:"42 - Look Out Weekend",
+    title:"43 - Look Out Weekend",
     artist: "Debbie Deb",
     cover: "lookout.jpg",
     file: "LookoutWeekend.mp3",
   }, 
   {
-    title:"43 - Funky Little Beat",
+    title:"44 - Funky Little Beat",
     artist: "Connie",
     cover: "connie.jpg",
     file: "connie.mp3",
   },   
   {
-    title:"44 - Take Me In Your Arms",
+    title:"45 - Take Me In Your Arms",
     artist: "Lil Suzy",
     cover: "lil.jpg",
-    file: "connie.mp3",
+    file: "LilSuzyTakeMeInYourArms.mp3",
   },   
   {
-    title:"45 - In A Dream",
+    title:"46 - In A Dream",
     artist: "Rockell",
     cover: "inadream.jpg",
     file: "InADream.mp3",
+  },    
+  {
+    title:"47 - So, Tell Me, Tell Me",
+    artist: "Shavonne",
+    cover: "so.jpg",
+    file: "SoTellMeTellMe.mp3",
   },  
 ];
+
+
