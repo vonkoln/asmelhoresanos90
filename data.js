@@ -250,6 +250,12 @@ export default [
     artist: "Debbie Deb",
     cover: "wheni.jpg",
     file: "WhenIHearMusic.mp3",
+  },  
+  {
+    title:"43 - They're Playing Our Song",
+    artist: "Trinere",
+    cover: "trinere.jpg",
+    file: "TheyrePlayingOurSong.mp3",
   }, 
   {
     title:"43 - Look Out Weekend",
