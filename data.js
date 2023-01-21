@@ -1,19 +1,19 @@
 export default [
   {
     title:"1 - Burn The Elastic",
-    artist: "Violet",
+    artist: "Dj - Kurtis el Khaleel",
     cover: "burn.jpg",
     file: "VioletBurnTheElastic.mp3",
   },  
   {
     title:"2 - Play It Again",
-    artist: "Out Of The Ordinary",
+    artist: "Torsten Fenslau",
     cover: "out.jpg",
     file: "OutOfTheOrdinary-PlayItAgain.mp3",
   },  
   {
     title:"3 - Good Life Cj's Living Good",
-    artist: "Inner City",
+    artist: "Kevin Saunderson",
     cover: "ineed.jpg",
     file: "InnerCity-GoodLife-(CJ'sLivingGoodClubMix).mp3",
   },  
@@ -49,7 +49,7 @@ export default [
   },
   {
     title:"9 - Jack The Beat",
-    artist: "Wicked Wipe",
+    artist: "Jeff Mills",
     cover: "hipo3.jpg",
     file: "WickedWipeJackTheBeatOriginal.mp3",
   },
@@ -67,7 +67,7 @@ export default [
   },
   {
     title:"12 - To The Three",
-    artist: "SP 1200",
+    artist: "Eric Vidal & Nick Vidal",
     cover: "phoenix.jpg",
     file: "SP1200-ToTheThree.mp3",
   },
@@ -97,7 +97,7 @@ export default [
   },  
   {
     title:"17 - Godfather Freestyle",
-    artist: "Black Power",
+    artist: "Christos Kemanetzidis",
     cover: "godf.jpg",
     file: "BlackPoweGodfatherFreestylePartyMix.mp3",
   },  
@@ -115,7 +115,7 @@ export default [
   },   
   {
     title:"20 - Rollerblade Club",
-    artist: "Movin' Melodies",
+    artist: "Georg O. Luksch",
     cover: "movin.jfif",
     file: "Movin'Melodies-Rollerblade(Club69FutureMix).mp3",
   },    
@@ -157,7 +157,7 @@ export default [
   },    
   {
     title:"27 - Shake It",
-    artist: "Gigi Galaxy",
+    artist: "Gary Martin",
     cover: "shake.jpg",
     file: "GigiGalaxy-ShakeIt.mp3",
   },    
