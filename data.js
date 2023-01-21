@@ -238,5 +238,35 @@ export default [
     artist: "Dj Icey",
     cover: "ice.jfif",
     file: "djicey-wedoitlikethis.mp3",
+  }, 
+  {
+    title:"41 - When I Hear Music",
+    artist: "Debbie Deb",
+    cover: "wheni.jpg",
+    file: "WhenIHearMusic.mp3",
+  }, 
+  {
+    title:"42 - Look Out Weekend",
+    artist: "Debbie Deb",
+    cover: "lookout.jpg",
+    file: "LookoutWeekend.mp3",
+  }, 
+  {
+    title:"43 - Funky Little Beat",
+    artist: "Connie",
+    cover: "connie.jpg",
+    file: "connie.mp3",
+  },   
+  {
+    title:"44 - Take Me In Your Arms",
+    artist: "Lil Suzy",
+    cover: "lil.jpg",
+    file: "connie.mp3",
+  },   
+  {
+    title:"45 - In A Dream",
+    artist: "Rockell",
+    cover: "inadream.jpg",
+    file: "InADream.mp3",
   },  
 ];
