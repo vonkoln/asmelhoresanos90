@@ -303,7 +303,31 @@ export default [
     title:"51 - Just Like the Windt",
     artist: "Tony Garcia",
     cover: "just.jpg",
-    file: "JustLiketheWind",
+    file: "JustLiketheWind.mp3",
+  },      
+  {
+    title:"52 - Let the Music Play",
+    artist: "Shannon",
+    cover: "letmusic.jpg",
+    file: "LettheMusicPlay.mp3",
+  },       
+  {
+    title:"53 - It Takes Two",
+    artist: "Rob Base & DJ EZ Rock",
+    cover: "rob.jpg",
+    file: "ItTakesTwo.mp3",
+  },       
+  {
+    title:"54 - Children's Story",
+    artist: "Slick Rick",
+    cover: "slick.jpg",
+    file: "ChildrenStory.mp3",
+  },      
+  {
+    title:"55 - This Is How We Do It",
+    artist: "Montell Jordan",
+    cover: "this.jpg",
+    file: "ThisIsHowWeDoIt.mp3",
   },  
 ];
 
