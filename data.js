@@ -328,6 +328,18 @@ export default [
     artist: "Montell Jordan",
     cover: "this.jpg",
     file: "ThisIsHowWeDoIt.mp3",
+  },      
+  {
+    title:"56 - Push It",
+    artist: "Salt-N-Pepa",
+    cover: "push.jpg",
+    file: "PushIt.mp3",
+  },     
+  {
+    title:"57 - Supersonic",
+    artist: "Salt-N-Pepa",
+    cover: "sonic.jpg",
+    file: "Supersonic.mp3",
   },  
 ];
 
