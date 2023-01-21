@@ -337,7 +337,7 @@ export default [
   },     
   {
     title:"57 - Supersonic",
-    artist: "Salt-N-Pepa",
+    artist: "J. J. Fad (Juana, Juanita, Fatima, Anna, and Dana)",
     cover: "sonic.jpg",
     file: "Supersonic.mp3",
   },  
