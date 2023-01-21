@@ -224,7 +224,7 @@ export default [
   {
     title:"38 - Turn Me Out",
     artist: "Kath Brown",
-    cover: "hipo.jpg",
+    cover: "kathy.jpg",
     file: "kathBrownTurnMeOut.mp3",
   },     
   {
