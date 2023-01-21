@@ -238,6 +238,18 @@ export default [
     artist: "Dj Icey",
     cover: "ice.jfif",
     file: "djicey-wedoitlikethis.mp3",
+  },    
+  {
+    title:"41 - Rock the Beet",
+    artist: "Dj Trajic",
+    cover: "traj.jpg",
+    file: "djicey-wedoitlikethis.mp3",
+  },    
+  {
+    title:"42 - Rock The Funky Beats",
+    artist: "Natural Born Chillers",
+    cover: "natu.jpg",
+    file: "Natural.mp3",
   }, 
   {
     title:"41 - Don't Stop The Rock",
