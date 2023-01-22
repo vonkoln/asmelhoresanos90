@@ -226,6 +226,12 @@ export default [
     artist: "Genwine",
     cover: "pony.jpg",
     file: "Genwine-Pony(MIAMI)BRNDance.mp3",
+  }, 
+  {
+    title:" - My Boo",
+    artist: "Ghost Town DJs",
+    cover: "boo.jpg",
+    file: "Boo.mp3",
   },     
   {
     title:"36 - Summertime Summertime",
@@ -310,6 +316,12 @@ export default [
     artist: "Will to Power",
     cover: "will.jpg",
     file: "Say.mp3",
+  },      
+  {
+    title:" - Dreamin'",
+    artist: "Will to Power",
+    cover: "will2.jpg",
+    file: "Will2.mp3",
   },    
   {
     title:"49 - No Matter What I Do It's All About You Rock Da Planet",
@@ -340,6 +352,12 @@ export default [
     artist: "Lathun Grady",
     cover: "lathun.jpg",
     file: "LathunGradyFreakIt.mp3",
+  },    
+  {
+    title:" - Now And Forever",
+    artist: "Nyasia",
+    cover: "nyasia.jpg",
+    file: "nyasia.mp3",
   },   
   {
     title:"54 - So, Tell Me, Tell Me",
@@ -382,6 +400,24 @@ export default [
     artist: "Rockell",
     cover: "inadream.jpg",
     file: "InADream.mp3",
+  },      
+  {
+    title:" - Just Another Lover",
+    artist: "Ray Guell",
+    cover: "ray.jpg",
+    file: "Ray.mp3",
+  },       
+  {
+    title:" - Silent Morning",
+    artist: "Noel",
+    cover: "noel.jpg",
+    file: "noel.mp3",
+  },         
+  {
+    title:" - In My Eyes",
+    artist: "Stevie B",
+    cover: "b.jpg",
+    file: "b.mp3",
   },        
   {
     title:"61 - It Takes Two",
