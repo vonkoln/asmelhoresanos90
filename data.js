@@ -13,8 +13,14 @@ export default [
   }, 
   {
     title:"3 - Waves of Life",
-    artist: "Dj - Acardipane",
+    artist: "Dj Acardipane",
     cover: "waves.jpg",
+    file: "Waves.mp3",
+  }, 
+  {
+    title:" - Everybody",
+    artist: "Dj Richard F. & Tio Banks",
+    cover: "every.jpg",
     file: "Waves.mp3",
   },        
   {
@@ -82,6 +88,12 @@ export default [
     artist: "Dj Deeon",
     cover: "freaks.jpg",
     file: "Deeon-TheFreaks.mp3",
+  }, 
+  {
+    title:" - Twilight 22",
+    artist: "Electric Kingdom",
+    cover: "elec.jpg",
+    file: "Elec.mp3",
   },      
   {
     title:"14 - We Do It Like This",
@@ -232,6 +244,12 @@ export default [
     artist: " Jocelyn Enriquez",
     cover: "joce.jpg",
     file: "Little.mp3",
+  },        
+  {
+    title:" - Release Me",
+    artist: "Angelina",
+    cover: "ange.jpg",
+    file: "Release.mp3",
   },       
   {
     title:"39 - Feel It",
