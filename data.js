@@ -418,6 +418,12 @@ export default [
     artist: "Stevie B",
     cover: "b.jpg",
     file: "b.mp3",
+  },       
+  {
+    title:" - I'll Be Loving You",
+    artist: "Collage",
+    cover: "coll.jpg",
+    file: "coll.mp3",
   },        
   {
     title:"61 - It Takes Two",
