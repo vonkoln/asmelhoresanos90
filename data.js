@@ -10,6 +10,12 @@ export default [
     artist: "Dj - Kurtis el Khaleel",
     cover: "burn.jpg",
     file: "VioletBurnTheElastic.mp3",
+  }, 
+  {
+    title:"3 - Waves of Life",
+    artist: "Dj - Acardipane",
+    cover: "waves.jpg",
+    file: "Waves.mp3",
   },        
   {
     title:"3 - Higher State of Consciousness",
