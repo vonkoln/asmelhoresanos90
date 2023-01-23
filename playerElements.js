@@ -4,7 +4,7 @@ export default {
   get() {
     this.cover = document.querySelector(".card-image");
     this.title = document.querySelector(".card-content h5");
-    this.artist = document.querySelector(".artist");
+    this.artist = document.querySelector(".artist");  
     this.playPause = document.querySelector("#play-pause");
     this.nextTrack = document.querySelector("#next-track");
     this.previousTrack = document.querySelector("#previous-track");
