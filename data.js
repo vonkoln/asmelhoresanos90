@@ -1,4 +1,4 @@
-export default [  
+export default  [  
   {
     title:"1 - Play It Again",
     artist: "Torsten Fenslau",
@@ -600,5 +600,4 @@ export default [
     file: "fu.mp3",
   },
 ];
-
 
