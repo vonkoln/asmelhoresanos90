@@ -1,21 +1,22 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
 
-:root {
+:root 
+{
   --primary: #3b2e93;
 }
 
-body {
-  margin: 0;
-  padding: 0;
+body 
+{
+ background:  #0c1123;
   height: 100vh;
-  background-color: #ed947d;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#player {
+#player 
+{
   background-color: #fff;
   width: 90%;
   max-width: 375px;
@@ -23,12 +24,14 @@ body {
     0px 3px 1px -2px rgba(0, 0, 0, 0.12), 0px 1px 5px 0px rgba(0, 0, 0, 0.2); /* x-axis y-axis blur spread color */
 }
 
-.card {
+.card 
+{
   box-shadow: none;
   margin: 0;
 }
 
-h4 {
+h4 
+{
   color: var(--primary);
   font-size: 20px;
   font-weight: bold;
@@ -39,74 +42,60 @@ h4 {
   padding: 12px;
 }
 
-.card-image {
+.card-image 
+{
   background: url("https://placehold.it/500") no-repeat center center / cover;
   height: 360px;
   width: 375px;
 }
 
-audio {
+audio 
+{
   width: 100%;
   margin-top: 30px;
 }
 
 #play-pause,
 #previous-track,
-#next-track {
+#next-track 
+{
   background-color: var(--primary);
 }
 
-#player-controls {
+#player-controls 
+{
   margin-bottom: 0px;
   margin-top: 10px;
 }
 
-#volume-icon {
+#volume-icon 
+{
   color: var(--primary);
   transform: translateY(3px);
 }
 
 /* Chrome */
-input[type="range"]::-webkit-slider-thumb {
+input[type="range"]::-webkit-slider-thumb 
+{
   background-color: var(--primary);
 }
 
 /* Mozilla */
-input[type="range"]::-moz-range-thumb {
+input[type="range"]::-moz-range-thumb 
+{
   background-color: var(--primary);
 }
 
 /* Internet Explorer e Edge */
-input[type="range"]::-ms-thumb {
+input[type="range"]::-ms-thumb 
+{
   background-color: var(--primary);
 }
 
-.change-tracks {
+.change-tracks 
+{
   margin-bottom: 20px;
   display: flex;
   justify-content: space-evenly;
 }
 
-.avaliacao{
-  display: flex;
-  justify-content: center;
- }
-.star-icon{
-  list-style-type: none;
-  border: 1px solid #fff;
-  cursor: pointer;
-  color: #ffe500;
-  font-size: 30px;/* alterar o tamanho das estrelas */
-}
-.star-icon::before{
-  content: "\2605";
-}
-.star-icon.ativo ~ .star-icon::before{
-  content: "\2606";
-}
-.avaliacao:hover .star-icon::before{
-  content: "\2605";
-}
-.star-icon:hover ~ .star-icon::before{
-  content: "\2606";
-}

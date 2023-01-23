@@ -1,4 +1,4 @@
-export default [  
+export default  [  
   {
     title:"1 - Play It Again",
     artist: "Torsten Fenslau",
@@ -7,25 +7,25 @@ export default [
   }, 
   {
     title:"2 - Burn The Elastic",
-    artist: "Dj - Kurtis el Khaleel",
+    artist: "Kurtis el Khaleel",
     cover: "burn.jpg",
     file: "VioletBurnTheElastic.mp3",
   }, 
   {
     title:"3 - Waves of Life",
-    artist: "Dj Acardipane",
+    artist: "Acardipane",
     cover: "waves.jpg",
     file: "Waves.mp3",
   }, 
   {
     title:"4 - Everybody",
-    artist: "Dj Richard F. & Tio Banks",
+    artist: "Richard F. & Tio Banks",
     cover: "every.jpg",
     file: "every.mp3",
   },  
   {
     title:"5 - Deep Inside",
-    artist: "Dj Roger Lyra",
+    artist: "Roger Lyra",
     cover: "roger.jpg",
     file: "every.mp3",
   },        
@@ -49,19 +49,19 @@ export default [
   },   
   {
     title:"9 - The Friction Remix",
-    artist: "Dj Trajic",
+    artist: "Trajic",
     cover: "friction.jfif",
     file: "DjTrajic-TheFriction.mp3",
   },      
   {
     title:"10 - Rock the Beet",
-    artist: "Dj Trajic",
+    artist: "Trajic",
     cover: "traj.jpg",
     file: "Rock.mp3",
   },    
   {
     title:"11 - Pants R Saggin' ",
-    artist: "Dj Trajic",
+    artist: "Trajic",
     cover: "pant.jpg",
     file: "Pant.mp3",
   },    
@@ -73,7 +73,7 @@ export default [
   }, 
   {
     title:"13 - Breakdown",
-    artist: "Dj Self & Dj Trajic",
+    artist: "Self & Trajic",
     cover: "djselfdjtrajic.jpg",
     file: "Self&TrajicBreakdownMix.mp3",
   },
@@ -85,13 +85,13 @@ export default [
   },
   {
     title:"15 - Waves Of Life",
-    artist: "Dj Alberto",
+    artist: "Alberto",
     cover: "alberto.jpg",
     file: "alberto.mp3",
   }, 
   {
     title:"16 - The Freaks",
-    artist: "Dj Deeon",
+    artist: "Deeon",
     cover: "freaks.jpg",
     file: "Deeon-TheFreaks.mp3",
   }, 
@@ -103,13 +103,13 @@ export default [
   },      
   {
     title:"18 - We Do It Like This",
-    artist: "Dj Icey",
+    artist: "Icey",
     cover: "ice.jfif",
     file: "djicey-wedoitlikethis.mp3",
   },    
   {
     title:"19 - I Need You",
-    artist: "Dj Icey",
+    artist: "Icey",
     cover: "ineedyou.jpg",
     file: "ineedyou.mp3",
   }, 
@@ -139,7 +139,7 @@ export default [
   },  
   {
     title:"24 - Hocus Pocus",
-    artist: "Dj Irene",
+    artist: "Irene",
     cover: "hocus.jpg",
     file: "HocusPocus.mp3",
   }, 
@@ -169,13 +169,13 @@ export default [
   },     
   {
     title:"29 - Friction",
-    artist: "Dj Trajic",
+    artist: "Trajic",
     cover: "friction.jfif",
     file: "DJTrajicFriction.mp3",
   },    
   {
     title:"30 - Show Me Your Face",
-    artist: "Dj Trajic",
+    artist: "Trajic",
     cover: "tra.jpg",
     file: "tra.mp3",
   }, 
@@ -199,37 +199,37 @@ export default [
   }, 
   {
     title:"34 - Free-Stylin",
-    artist: "Dj Flik",
+    artist: "Flik",
     cover: "mix.jpg",
     file: "mix.mp3",
   }, 
   {
     title:"35 - I Wanna Rock",
-    artist: "Dj Nedu Lopes",
+    artist: "Nedu",
     cover: "iwana.jpg",
     file: "iwanarock.mp3",
   },
   {
     title:"36 - Atomico '99",
-    artist: "Dj Nedu Lopes",
+    artist: "Nedu",
     cover: "atomico.jpg",
     file: "atomico.mp3",
   }, 
   {
     title:"37 - Work It",
-    artist: "Dj Funk",
+    artist: "Funk",
     cover: "djfunk.jpg",
     file: "djfunk.mp3",
   },
   {
     title:"38 - That Jack",
-    artist: "Dj Insane e To kool Chris",
+    artist: "Insane, To kool Chris",
     cover: "kool.jpg",
     file: "thatjack.mp3",
   }, 
   {
     title:"39 - Some Whores",
-    artist: "Dj Insane e To kool Chris",
+    artist: "Insane e To kool Chris",
     cover: "insane.jpg",
     file: "some.mp3",
   }, 
@@ -271,19 +271,19 @@ export default [
   },     
   {
     title:"46 - The Buddha Monks Funky",
-    artist: "Dj Stew Featuring ",
+    artist: "Stew Featuring ",
     cover: "move.jpg",
     file: "DJStewBMonks-FF.mp3",
   },      
   {
     title:"47 - Move Your Body",
-    artist: "DJ Henrique e DJ Walter",
+    artist: "Henrique e Walter",
     cover: "henrique.jpg",
     file: "henrique.mp3",
   },     
   {
     title:"48 - Beachball",
-    artist: "Nalin & Kane, Dj Icey's",
+    artist: "Nalin & Kane, Icey's",
     cover: "nalin.jfif",
     file: "nalin.mp3",
   },    
@@ -559,7 +559,7 @@ export default [
   },         
   {
     title:"94 - It Takes Two",
-    artist: "Rob Base & DJ EZ Rock",
+    artist: "Rob Base, EZ Rock",
     cover: "rob.jpg",
     file: "ItTakesTwo.mp3",
   },            
@@ -600,5 +600,4 @@ export default [
     file: "fu.mp3",
   },
 ];
-
 
