@@ -108,7 +108,7 @@ export default [
     file: "djicey-wedoitlikethis.mp3",
   },    
   {
-    title:"19 - I Need you",
+    title:"19 - I Need You",
     artist: "Dj Icey",
     cover: "ineedyou.jpg",
     file: "ineedyou.mp3",
