@@ -523,14 +523,20 @@ export default [
     file: "ThisIsHowWeDoIt.mp3",
   },      
   {
-    title:"88 - I'll Be Missing You",
+    title:"88 - Mr. Loverman",
+    artist: "Shabba Ranks",
+    cover: "love.jpg",
+    file: "love.mp3",
+  },      
+  {
+    title:"89 - I'll Be Missing You",
     artist: "Puff Daddy",
     cover: "puff.jpg",
     file: "puff.mp3",
   },     
   {
-    title:"89 - Killing Me Softly",
-    artist: "Fugees ",
+    title:"90 - Killing Me Softly",
+    artist: "Fugees",
     cover: "fu.jpg",
     file: "fu.mp3",
   },
