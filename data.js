@@ -466,6 +466,12 @@ export default [
     artist: "Puff Daddy",
     cover: "puff.jpg",
     file: "puff.mp3",
+  },     
+  {
+    title:"78 - Killing Me Softly",
+    artist: "Fugees ",
+    cover: "fu.jpg",
+    file: "fu.mp3",
   },
 ];
 
