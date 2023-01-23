@@ -224,7 +224,7 @@ export default [
   {
     title:"37 - Atomico '99",
     artist: "Dj Nedu Lopes",
-    cover: "atomicoa.jpg",
+    cover: "atomico.jpg",
     file: "atomico.mp3",
   }, 
   
