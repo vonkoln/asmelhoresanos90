@@ -3,7 +3,7 @@ export default [
     title:"1 - Play It Again",
     artist: "Torsten Fenslau",
     cover: "out.jpg",
-    file: "OutOfTheOrdinary-PlayItAgain.mp3",
+    file: "Out.mp3",
   }, 
   {
     title:"2 - Burn The Elastic",
@@ -45,7 +45,7 @@ export default [
     title:"8 - Rollerblade Club",
     artist: "Georg O. Luksch",
     cover: "movin.jfif",
-    file: "Movin'Melodies-Rollerblade(Club69FutureMix).mp3",
+    file: "movin.mp3",
   },   
   {
     title:"9 - The Friction Remix",
@@ -69,7 +69,7 @@ export default [
     title:"12 - Jack The Beat",
     artist: "Jeff Mills",
     cover: "hipo3.jpg",
-    file: "WickedWipeJackTheBeatOriginal.mp3",
+    file: "wwj.mp3",
   }, 
   {
     title:"13 - Breakdown",
@@ -87,7 +87,7 @@ export default [
     title:"15 - Waves Of Life",
     artist: "Dj Alberto",
     cover: "alberto.jpg",
-    file: "TheMoverWavesOfLifeDJAlbertoRemix.mp3",
+    file: "alberto.mp3",
   }, 
   {
     title:"16 - The Freaks",
@@ -129,7 +129,7 @@ export default [
     title:"22 - Destination Unknown",
     artist: "Green Velvet",
     cover: "velv.jpg",
-    file: "GreenVelvet-DestinationUnknown.mp3",
+    file: "green.mp3",
   },  
   {
     title:"23 - Hocus Pocus",
@@ -159,7 +159,7 @@ export default [
     title:"27 - Jack The Beat",
     artist: "Wicked Wipe",
     cover: "hipo4.jpg",
-    file: "WickedWipe-JackTheBeatRemix.mp3",
+    file: "wwjmix.mp3",
   },     
   {
     title:"28 - Friction",
@@ -209,7 +209,36 @@ export default [
     cover: "atomico.jpg",
     file: "atomico.mp3",
   }, 
-  
+  {
+    title:" - Work It",
+    artist: "Dj Funk",
+    cover: "djfunk.jpg",
+    file: "djfunk.mp3",
+  },
+  {
+    title:" - That Jack",
+    artist: "Dj Insane e To kool Chris",
+    cover: "kool.jpg",
+    file: "thatjack.mp3",
+  }, 
+  {
+    title:" - Some Whores",
+    artist: "Dj Insane e To kool Chris",
+    cover: "insane.jpg",
+    file: "some.mp3",
+  }, 
+  {
+    title:" - Brothers & Sisters",
+    artist: "To kool Chris",
+    cover: "bs.jpg",
+    file: "bs.mp3",
+  }, 
+  {
+    title:" - The Rebel",
+    artist: "To kool Chris",
+    cover: "re.jpg",
+    file: "rebel.mp3",
+  },   
   {
     title:"36 - Godfather Freestyle",
     artist: "Christos Kemanetzidis",
@@ -235,7 +264,7 @@ export default [
     file: "in.mp3",
   },     
   {
-    title:"40 - The Buddha Monks Funky Fresh",
+    title:"40 - The Buddha Monks Funky",
     artist: "Dj Stew Featuring ",
     cover: "move.jpg",
     file: "DJStewBMonks-FF.mp3",
@@ -244,13 +273,13 @@ export default [
     title:"41 - Beachball",
     artist: "Nalin & Kane, Dj Icey's",
     cover: "nalin.jfif",
-    file: "Nalin&Kane-Beachball(DJIcey'sBassMix).mp3",
+    file: "nalin.mp3",
   },    
   {
     title:"42 - Good Life Cj's Living Good",
     artist: "Kevin Saunderson",
     cover: "ineed.jpg",
-    file: "InnerCity-GoodLife-(CJ'sLivingGoodClubMix).mp3",
+    file: "inner.mp3",
   },   
   {
     title:"43 - Turn Me Out",
@@ -263,7 +292,13 @@ export default [
     artist: "Todd Terry",
     cover: "feel.jpg",
     file: "Blurr-FeelIt.mp3",
-  },    
+  },         
+  {
+    title:" - Razen Theme",
+    artist: "Todd Terry",
+    cover: "raze.jpg",
+    file: "raze.mp3",
+  },   
   {
     title:"45 - Don't Go",
     artist: "Awesome 3",
@@ -310,11 +345,11 @@ export default [
     title:"52 - Too Nice To Be Real",
     artist: "T 99",
     cover: "t99.jpg",
-    file: "T99-TooNiceToBeReal.mp3",
+    file: "t99.mp3",
   }, 
   {
-    title:"53 - Mothership Reconnection Daft Punk",
-    artist: "Scott Grooves Feat. Parliament Funkadelic",
+    title:"53 - Mothership - Daft Punk",
+    artist: "Scott Grooves",
     cover: "scoot.jpg",
     file: "scoot.mp3",
   },    
@@ -334,7 +369,7 @@ export default [
     title:"56 - Play at Your Own Risk",
     artist: "Planet Patrol",
     cover: "playat.jpg",
-    file: "PlayatYourOwnRisk.mp3",
+    file: "risk.mp3",
   },  
   {
     title:"57 - The City Of Shamballa",
@@ -404,7 +439,7 @@ export default [
   },     
   {
     title:"68 - Supersonic",
-    artist: "J. J. Fad (Juana, Juanita, Fatima, Anna, and Dana)",
+    artist: "J. J. Fad",
     cover: "sonic.jpg",
     file: "Supersonic.mp3",
   },  
