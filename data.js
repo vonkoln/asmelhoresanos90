@@ -27,7 +27,7 @@ export default  [
     title:"5 - Deep Inside",
     artist: "Roger Lyra",
     cover: "roger.jpg",
-    file: "every.mp3",
+    file: "roger.mp3",
   },        
   {
     title:"6 - Higher State of Consciousness",
