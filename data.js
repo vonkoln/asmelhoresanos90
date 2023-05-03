@@ -604,6 +604,12 @@ export default  [
     artist: "Fugees",
     cover: "fu.jpg",
     file: "fu.mp3",
+  },,     
+  {
+    title:"102 - Your Last Game",
+    artist: "Taos Elieri feat. Joenuts",
+    cover: "taos.jpeg",
+    file: "last.mp3",
   },
 ];
 
