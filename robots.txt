@@ -1,0 +1,15 @@
+# Permitir que todos os bots indexem o site
+User-agent: *
+
+# Bloquear diretórios que não precisam ser indexados
+Disallow: /admin/
+Disallow: /scripts/
+Disallow: /tmp/
+Disallow: /testes/
+Disallow: /private/
+
+# Permitir tudo que está fora dos diretórios acima
+Allow: /
+
+# Informa ao Google onde está o sitemap
+Sitemap: https://asmelhoresanos90.netlify.app/sitemap.xml
