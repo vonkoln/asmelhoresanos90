@@ -1,172 +1,40 @@
-/*@import "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css";
-@import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
-
-:root 
-{
-  --primary: #3b2e93;
-}
-
-body 
-{
- background:  #0c1123;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-#player 
-{
-  background-color: #fff;
-  width: 90%;
-  max-width: 375px;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
-    0px 3px 1px -2px rgba(0, 0, 0, 0.12), 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
-}
-
-.card 
-{
-  box-shadow: none;
-  margin: 0;
-}
-
-h4 
-{
-  color: var(--primary);
-  font-size: 20px;
-  font-weight: bold;
-  margin: 0px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 12px;
-}
-
-.card-image 
-{
-  background: url("https://placehold.it/500") no-repeat center center / cover;
-  height: 360px;
-  width: 375px;
-}
-
-audio 
-{
-  width: 100%;
-  margin-top: 30px;
-}
-
-#play-pause,
-#previous-track,
-#next-track 
-{
-  background-color: var(--primary);
-}
-
-#player-controls 
-{
-  margin-bottom: 0px;
-  margin-top: 10px;
-}
-
-#volume-icon 
-{
-  color: var(--primary);
-  transform: translateY(3px);
-}
-
-
-input[type="range"]::-webkit-slider-thumb 
-{
-  background-color: var(--primary);
-}
-
-
-input[type="range"]::-moz-range-thumb 
-{
-  background-color: var(--primary);
-}
-
-
-input[type="range"]::-ms-thumb 
-{
-  background-color: var(--primary);
-}
-
-.change-tracks 
-{
-  margin-bottom: 20px;
-  display: flex;
-  justify-content: space-evenly;
-}
-
-/*
-    body {
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      background-color: #f0f0f0;
-    }
-
-    .container {
-      display: flex;
-      width: 100%;
-      max-width: 1600px;
-      min-height: 100vh;
-    }
-
-    .sidebar {
-      width: 160px;
-      padding: 10px;
-      box-sizing: border-box;
-    }
-
-    .main-content {
-      flex: 1;
-      padding: 20px;
-      box-sizing: border-box;
-    }
-
-    #player {
-      max-width: 600px;
-      margin: 0 auto;
-    }
-  
-*/
-
 @import "https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css";
 
 :root {
   --primary: #3b2e93;
+  --background: #0c1123;
+  --player-bg: #ffffff;
 }
 
-/* Reset básico e fundo */
+/* Reset básico */
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background: #0c1123;
+  background: var(--background);
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
 
-/* Container geral com layout flexível */
+/* Layout geral */
 .container {
   display: flex;
   width: 100%;
   max-width: 1600px;
-  margin: 0 auto;
   min-height: 100vh;
-  box-sizing: border-box;
+  margin: 0 auto;
 }
 
-/* Laterais de anúncios */
+/* Laterais para anúncios */
 .sidebar {
   width: 160px;
   padding: 10px;
-  box-sizing: border-box;
 }
 
-/* Conteúdo principal */
+/* Área principal */
 .main-content {
   flex: 1;
   padding: 20px;
@@ -175,47 +43,49 @@ body {
   align-items: center;
 }
 
-/* Player central */
+/* Player */
 #player {
-  background-color: #fff;
+  background-color: var(--player-bg);
   width: 100%;
   max-width: 400px;
-  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
-              0px 3px 1px -2px rgba(0, 0, 0, 0.12),
-              0px 1px 5px 0px rgba(0, 0, 0, 0.2);
+  box-shadow:
+    0px 2px 2px rgba(0, 0, 0, 0.12),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12),
+    0px 1px 5px rgba(0, 0, 0, 0.2);
 }
 
-/* Card sem sombra */
+/* Card */
 .card {
   box-shadow: none;
   margin: 0;
 }
 
-/* Título do player */
+/* Título */
 h4 {
   color: var(--primary);
   font-size: 20px;
   font-weight: bold;
-  margin: 0px;
+  margin: 0;
+  padding: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 12px;
 }
 
 /* Imagem da música */
 .card-image {
   background: url("https://placehold.it/500") no-repeat center center / cover;
-  height: 360px;
   width: 100%;
+  height: 360px;
 }
 
-/* Controles de áudio */
+/* Áudio */
 audio {
   width: 100%;
   margin-top: 30px;
 }
 
+/* Controles */
 #play-pause,
 #previous-track,
 #next-track {
@@ -223,17 +93,17 @@ audio {
 }
 
 #player-controls {
-  margin-bottom: 0px;
   margin-top: 10px;
+  margin-bottom: 0;
 }
 
-/* Ícone de volume */
+/* Volume */
 #volume-icon {
   color: var(--primary);
   transform: translateY(3px);
 }
 
-/* Estilo dos sliders */
+/* Sliders */
 input[type="range"]::-webkit-slider-thumb {
   background-color: var(--primary);
 }
@@ -246,9 +116,34 @@ input[type="range"]::-ms-thumb {
   background-color: var(--primary);
 }
 
-/* Botões de troca de faixa */
+/* Troca de faixas */
 .change-tracks {
   margin-bottom: 20px;
   display: flex;
   justify-content: space-evenly;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    min-height: 90px;
+  }
+
+  .main-content {
+    padding: 15px;
+    align-items: flex-start;
+  }
+
+  #player {
+    max-width: 100%;
+  }
+
+  .card-image {
+    height: 300px;
+  }
 }
